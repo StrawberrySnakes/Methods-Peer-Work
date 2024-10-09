@@ -1,5 +1,8 @@
-﻿// This code creates ,ethods for addition and subtraction
-//authors: Dessa Shapiro and Colin 
+﻿/* This code creates , methods for addition and subtraction
+authors: Dessa Shapiro and Colin Moore  
+Class:IGME.201.01 - Interac Des & Alg Prob Sol III
+Due Date: 10/13/2024
+*/
 namespace MethodsTeam
 {
     internal class Program
@@ -12,14 +15,28 @@ namespace MethodsTeam
         {
             int dessaFavoriteNumber;
             string dessaName = "Dessa";
+            int colinFavoriteNumber;
+            string firsttName = "Colin";
+
+
+            
+            int Subtract(int a, int b) {
+                return a - b;
+            }
 
             //initalize
             dessaFavoriteNumber = 307;
+            colinFavoriteNumber = 6;
 
             //start of our actual program
             Console.WriteLine("Partner A is "+dessaName+ " and her favoite number is: "+dessaFavoriteNumber);
+            Console.WriteLine("Partner B is " + firsttName + " amd his favorite number is: "+ colinFavoriteNumber);
 
-            //int addedNums = Add(dessaFavoriteNumber, );
+            //int addedNums = Add(dessaFavoriteNumber,);
+
+            //Subtract numbers
+            int subtractNum = Subtract(dessaFavoriteNumber,colinFavoriteNumber);
+            Console.WriteLine("When we subtract our favorite numbers from each other we get: " + subtractNum);
 
         }
     }
