@@ -1,0 +1,15 @@
+D:\Profiles\djs9826\Downloads\HW\Methods-Peer-Work\bin\Debug\net8.0\MethodsTeam.exe
+D:\Profiles\djs9826\Downloads\HW\Methods-Peer-Work\bin\Debug\net8.0\MethodsTeam.deps.json
+D:\Profiles\djs9826\Downloads\HW\Methods-Peer-Work\bin\Debug\net8.0\MethodsTeam.runtimeconfig.json
+D:\Profiles\djs9826\Downloads\HW\Methods-Peer-Work\bin\Debug\net8.0\MethodsTeam.dll
+D:\Profiles\djs9826\Downloads\HW\Methods-Peer-Work\bin\Debug\net8.0\MethodsTeam.pdb
+D:\Profiles\djs9826\Downloads\HW\Methods-Peer-Work\obj\Debug\net8.0\MethodsTeam.GeneratedMSBuildEditorConfig.editorconfig
+D:\Profiles\djs9826\Downloads\HW\Methods-Peer-Work\obj\Debug\net8.0\MethodsTeam.AssemblyInfoInputs.cache
+D:\Profiles\djs9826\Downloads\HW\Methods-Peer-Work\obj\Debug\net8.0\MethodsTeam.AssemblyInfo.cs
+D:\Profiles\djs9826\Downloads\HW\Methods-Peer-Work\obj\Debug\net8.0\MethodsTeam.csproj.CoreCompileInputs.cache
+D:\Profiles\djs9826\Downloads\HW\Methods-Peer-Work\obj\Debug\net8.0\MethodsTeam.sourcelink.json
+D:\Profiles\djs9826\Downloads\HW\Methods-Peer-Work\obj\Debug\net8.0\MethodsTeam.dll
+D:\Profiles\djs9826\Downloads\HW\Methods-Peer-Work\obj\Debug\net8.0\refint\MethodsTeam.dll
+D:\Profiles\djs9826\Downloads\HW\Methods-Peer-Work\obj\Debug\net8.0\MethodsTeam.pdb
+D:\Profiles\djs9826\Downloads\HW\Methods-Peer-Work\obj\Debug\net8.0\MethodsTeam.genruntimeconfig.cache
+D:\Profiles\djs9826\Downloads\HW\Methods-Peer-Work\obj\Debug\net8.0\ref\MethodsTeam.dll

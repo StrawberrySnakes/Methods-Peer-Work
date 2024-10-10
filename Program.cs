@@ -7,9 +7,14 @@ namespace MethodsTeam
 {
     internal class Program
     {
+        /// <summary>
+        /// This Function Adds two parameters together
+        /// </summary>
+        /// <param int="a"></param>
+        /// <param int="b"></param>
+        /// <returns>a + b</returns>
         static int Add(int a, int b) {
             return a + b;
-        
         }
         static void Main(string[] args)
         {
@@ -18,21 +23,22 @@ namespace MethodsTeam
             int colinFavoriteNumber;
             string firsttName = "Colin";
 
-
-            
-            int Subtract(int a, int b) {
-                return a - b;
-            }
-
             //initalize
             dessaFavoriteNumber = 307;
             colinFavoriteNumber = 6;
 
+            int Subtract(int a, int b)
+            {
+                return a - b;
+            }
+
             //start of our actual program
             Console.WriteLine("Partner A is "+dessaName+ " and her favoite number is: "+dessaFavoriteNumber);
-            Console.WriteLine("Partner B is " + firsttName + " amd his favorite number is: "+ colinFavoriteNumber);
+            Console.WriteLine("Partner B is " + firsttName + " and his favorite number is: "+ colinFavoriteNumber);
 
-            //int addedNums = Add(dessaFavoriteNumber,);
+            //make var into addition of two numbers
+            int addedNums = Add(dessaFavoriteNumber, colinFavoriteNumber);
+            Console.WriteLine("When we add our favorite numbers together we get: " + addedNums);
 
             //Subtract numbers
             int subtractNum = Subtract(dessaFavoriteNumber,colinFavoriteNumber);
